@@ -5,9 +5,6 @@ This project presents an interactive Power BI dashboard for analyzing credit car
 The objective is to make fraud-related data easier to explore and to support data-driven risk monitoring.
 
 
-# Dashboard Preview
-![Dashboard Overview] (https://github.com/AabshaarShaikh20/Credit-Card-Fraud-Risk-Analysis/blob/main/Screenshot.png)
-
 
 
 
